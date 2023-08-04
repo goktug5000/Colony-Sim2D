@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e081587e9e9dfeb40ac307a9abc55a46, type: 3}
+  m_Name: CicekCode
+  m_EditorClassIdentifier: 
+  name: Herb
+  description: 
+  artWork: {fileID: 0}
+  myGameObj: {fileID: 7657327500926187019, guid: d096b07f7ff886a42bc6cd637e1944eb, type: 3}
+  myMaterialTypesEnum: 1
+  kg: 0.1
+  maxAmount: 50
